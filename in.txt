@@ -2,3 +2,8 @@ Name,Price,Quantity
 Notebook Gamer,2100.90,10
 Smartphone X,1890.00,23
 TV LED 70,3500.89,8
+Teclado gamer,2000.5,35
+Mouse HyperX,800.52,32
+Headset Razer,2500.3,50
+Mesa digitalizadora,200.0,21
+celular xiaomi,3200.0,50
