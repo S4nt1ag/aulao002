@@ -7,3 +7,6 @@ Mouse HyperX,800.52,32
 Headset Razer,2500.3,50
 Mesa digitalizadora,200.0,21
 celular xiaomi,3200.0,50
+Iphone x,4000.0,15
+Mousepad,300.0,20
+GTX 1060,1650.5,50
